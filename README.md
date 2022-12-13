@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrazyBoySam
-- 👀 I’m interested in Python...
+- 👀 I’m interested in Python,Odoo...
 - 🌱 I’m currently learning ERP,Odoo..
 
 <!---
